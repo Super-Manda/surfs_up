@@ -15,8 +15,10 @@
 ## :shaved_ice: Summary: 
 
 ### Two Additional Queries to gather more weather data for June and December:
-- 1
-- 2
+-	1.  The first query is for the June precipitation.  June seems invariably dry based upon the standard deviation and the precipitation mean of 0.14.  
+-	2.  The second query is for the December precipitation.  December seems to be a wetter month at 0.22.  
+-	Overall, based upon the max numbers of both June and December, it suggests that when it rains hard enough to reach the max, this is likely caused by a hurricane.  
+
 
 ### Main findings 
 - Looking at June and December alone seems to ignore the other ten months of the year.  Thus, I graphed all readings for the entire dataset.  
