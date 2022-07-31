@@ -7,6 +7,7 @@
 ## :ice_cream: Results: 
 ### Three key differences in weather between June and December 
 
+![Temps_Combined](https://github.com/Super-Manda/surfs_up/blob/main/Images_%26_Extras/Temps_Combined.png) 
 
 - 1.  The mean temperature in June was 75 degrees, while the mean temperature in December is 71 degrees, which is comparable. 
 - 2.  The minimum temperature in December is only 56 degrees versus 64 degrees in June.  The maximum temperature in December is 83 degrees while the maximum temperature in June is 85 degrees.  Generally, this means that, regardless of whether it is June or December, when the temperatures are near the minimum, people will not likely be at the beach, and when the temperature is at the maximum, people will be at the beach.  The June versus December temperature comparisons alone do not suggest any impediments for a prospective business owner who wishes to open a shake shop all year round in Oahu, Hawaii.   
@@ -15,15 +16,15 @@
 ## :shaved_ice: Summary: 
 
 ### Two Additional Queries to gather more weather data for June and December:
--	1.  The first query is for the June precipitation.  June seems invariably dry based upon the standard deviation and the precipitation mean of 0.14.  
+-	1.  **The first query is for the June precipitation.  June seems invariably dry based upon the standard deviation and the precipitation mean of 0.14.**  
 
 ![June_Precipitation]( https://github.com/Super-Manda/surfs_up/blob/main/Images_%26_Extras/June_Precipitation.png)
 
--	2.  The second query is for the December precipitation.  December seems to be a wetter month at 0.22.  
+-	2.  **The second query is for the December precipitation.  December seems to be a relatively wetter month at 0.22.**  
 
 ![December_Precipitation](https://github.com/Super-Manda/surfs_up/blob/main/Images_%26_Extras/December_Precipitation.png) 
 
--	Overall, based upon the max numbers of both June and December, it suggests that when it rains hard enough to reach the max, this is likely caused by a hurricane.  
+-	Overall, based upon the max numbers of both June and December, it suggests that when it rains hard enough to reach the max, this is likely caused by a hurricane; however, on a generic precipitation basis, there is not a substantial amount of precipitation.  
 
 
 ### Main findings 
