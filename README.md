@@ -16,7 +16,7 @@
 ## :shaved_ice: Summary: 
 
 ### Two Additional Queries to gather more weather data for June and December:
--	1.  **The first query is for the June precipitation.  June seems invariably dry based upon the standard deviation and the precipitation mean of 0.14.**  
+-	1.  **The first query is for the June precipitation.  June seems mostly dry based upon the standard deviation and the precipitation mean of 0.14.**  
 
 ![June_Precipitation]( https://github.com/Super-Manda/surfs_up/blob/main/Images_%26_Extras/June_Precipitation.png)
 
@@ -24,7 +24,7 @@
 
 ![December_Precipitation](https://github.com/Super-Manda/surfs_up/blob/main/Images_%26_Extras/December_Precipitation.png) 
 
--	Overall, based upon the max numbers of both June and December, it suggests that when it rains hard enough to reach the max, this is likely caused by a hurricane; however, on a generic precipitation basis, there is not a substantial amount of precipitation.  
+-	**Overall, based upon the max numbers of both June and December, it suggests that when it rains hard enough to reach the max, this is likely caused by a hurricane; however, on a generic precipitation basis, there is not a substantial amount of precipitation.**  
 
 
 ### Main findings 
